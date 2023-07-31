@@ -53,7 +53,8 @@ Even though it looked good, it wasn't exactly what I was aiming for. To achieve 
 </p>
 
 # Step 3: What´s next?
-You can use this repository in Unity 2021 or higher
+You can use this repository in Unity 2021 or higher.
+
 I will leave the code modular, allowing you to experiment with different shapes. The project is free to use but if you use it, don't forget to mention me :) 
 
 # Author´s note
